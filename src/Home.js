@@ -2,7 +2,6 @@ import React from 'react'
 import EntityForm from './EntityForm'
 import EntityList from './EntityList'
 
-
 const Home = () => {
   return (
     <div>
